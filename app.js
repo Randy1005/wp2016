@@ -1,4 +1,4 @@
 function changeImage()
 {
-	document.getElementById("bgImage").src = "redIntro.png";
+	document.getElementById("bgImage").src = "redQ.png";
 }
